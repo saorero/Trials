@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+.started{
+    margin: 160px 0px 100px 60px;
+    
+}
+.st,.nd{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.nd{
+    gap: 60px;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.get{
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    background-color: #091540;
+}
+.search{
+    width: 100%;
+    border: 1px solid gainsboro;
+    padding: 8px;
+    border-radius: 10px;
+}
+input{
+    background: transparent;
+    border: 0px;
+    outline: 0px;
+    width: 300px;
+}
